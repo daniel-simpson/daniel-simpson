@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**daniel-simpson/daniel-simpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Kolmeo in Hawthorn, VIC, Australia as their very first Developer Experience Lead
+- 🌱 I’m currently learning a whole bunch about running Kubernetes (in non-production, thankfully)
+- 👯 I’m looking to collaborate on development tooling, especially around .NET and microservices
+- 🤔 Unfortunately I don't use Github at my day job (💔 Bitbucket)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My favourites
+
+- 💙 Favourite backend language is still good old [.NET](https://dotnet.microsoft.com/)
+- 💛 Favourite frontend project is [Svelte](https://svelte.dev/)
+- 🧡 Favourite IaC language is [Terraform](https://www.terraform.io/) (but there's some great alternatives now)
+- 💜 Favourite development tool is [meta](https://github.com/mateodelnorte/meta)
+- 💚 CI/CD tooling is anything that you can run locally (before you break the build!)
+- 🤎 Microservices tooling project is [Project Tye](https://github.com/dotnet/tye/)
